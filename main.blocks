@@ -4,4 +4,4 @@
         . . # . . 
         . . # . . 
         . # . # .
-        `</field></block></statement></block><block type="device_forever" id="pRb33Xx%ek]5#@?QyYb)" x="205" y="0"><statement name="HANDLER"><block type="device_play_note" id="ZCXeT-WG2j97v^8!:.iZ"><value name="note"><shadow type="device_note" id="4.4zs(9[hqJJwoV42DHR"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="@CL2ESgG/yLiMoB]*/I$"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></statement></block></xml>
+        `</field></block></statement></block><block type="device_forever" id="pRb33Xx%ek]5#@?QyYb)" x="205" y="0"><statement name="HANDLER"><block type="device_play_note" id="ZCXeT-WG2j97v^8!:.iZ"><value name="note"><shadow type="device_note" id="4.4zs(9[hqJJwoV42DHR"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="@CL2ESgG/yLiMoB]*/I$"><field name="fraction">BeatFraction.Eighth</field></shadow></value></block></statement></block></xml>
